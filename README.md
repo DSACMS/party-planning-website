@@ -2,7 +2,7 @@
 Website for planning parties
 
 ## About the Project
-**{project statement}**
+This is a demo project to demonstrate the code.json functionality integration with cookiecutter and the DSACMS metrics website.
 
 <!-- 
 ### Project Mission

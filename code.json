@@ -1,0 +1,45 @@
+{
+  "name": "party-planning-website",
+  "description": {
+    "en": {
+      "shortDescription": "Website for planning parties!",
+      "longDescription": "This website was created for demoing at the DSAC onsite."
+    }
+  },
+  "status": "development",
+  "permissions": {
+    "licenses": [
+      {
+        "URL": "LICENSE",
+        "name": "CC0-1.0"
+      }
+    ]
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/DSACMS/party-planning-website",
+  "vcs": "git",
+  "laborHours": "100",
+  "platforms": [ "web" ],
+  "categories": [ "web-collaboration" ],
+  "softwareType": "standalone/web",
+  "languages": [ "HTML" , "CSS", "JS" ],
+  "maintenance": "internal",
+  "date": {
+    "lastModified": "2024-09-23T20:36:43+0000",
+    "metadataLastUpdated": "2024-09-23T20:36:43+0000"
+  },
+  "tags": [ "party", "planning", "dsac" ],
+  "contact": {
+    "email": "opensource@cms.hhs.gov",
+    "name": "CMS Open Source Program Office"
+  },
+  "localisation": "false",
+  "projectType": "Website",
+  "userInput": "Yes",
+  "fismaLevel": "Low",
+  "group": "CMS/OA/DSAC",
+  "subsetInHealthcare": "Operational",
+  "userType": "Government",
+  "repositoryHost": "Github.com",
+  "maturityModelTier": "1"
+}
